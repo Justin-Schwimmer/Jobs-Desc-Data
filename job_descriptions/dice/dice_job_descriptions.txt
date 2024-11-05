@@ -1,0 +1,375 @@
+"PHP Full Stack Developer:
+
+Seeking a skilled PHP Full Stack Developer who thrives in a collaborative environment and is passionate about building robust and scalable applications. Extensive experience in both front-end and more so in back-end technologies. The ideal candidate will have a strong understanding of Angular, JavaScript, TypeScript, PHP, Laravel, MySQL, along with a solid background in database design and legacy system migration. Experience with AWS is essential, as you will be responsible for deploying and maintaining applications in a cloud environment.
+
+
+Key Responsibilities:
+
+
+Design, develop, and maintain high-quality web applications using Angular, JavaScript, and TypeScript.
+
+Develop and manage server-side logic using PHP and Laravel framework.
+
+Design and optimize relational databases, particularly MySQL, ensuring data integrity and performance.
+
+Lead efforts in migrating legacy systems to modern technology stacks, including database migrations and refactoring of existing codebases.
+
+Deploy, monitor, and manage applications on AWS, ensuring scalability, reliability, and security.
+
+Write clean, maintainable, and well-documented code, following best practices in software development.
+
+Troubleshoot and resolve issues across the entire stack, from front-end to database and infrastructure.
+
+Required Skills and Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+
+Strong proficiency in PHP and the Laravel framework.
+
+Extensive experience with MySQL, including database design, optimization.
+
+Hands-on experience with AWS services such as EC2, S3, RDS, Lambda, and CloudFormation.
+
+Strong understanding of RESTful API design and integration.
+
+Experience with version control systems, such as Git.
+
+Excellent problem-solving skills and attention to detail.
+
+Ability to work independently and as part of a team in a fast-paced environment.
+
+Strong communication skills, both written and verbal."
+
+
+"Backend Developer:
+
+
+Skills
+
+Risk management
+Pivotal
+Analytical skill
+Data integrity
+Documentation
+Collaboration
+Scalability
+Data security
+UI
+User experience
+Computer science
+Software development
+SAS
+Apache Spark
+PySpark
+Finance
+Regulatory Compliance
+Know your customer
+Screening
+Network analysis
+Management
+Foundry
+Backend development
+Programming languages
+Python
+Node.js
+Database
+Web services
+API
+Cloud computing
+Amazon Web Services
+Good Clinical Practice
+Google Cloud Platform
+Docker
+Kubernetes
+Git
+Open source
+JIRA
+Microsoft Azure
+DevOps
+Product management
+RESTful
+Design
+Mobile applications
+Problem solving
+Attention to detail
+
+Responsibilities:
+Develop and maintain robust and efficient server-side code for our platforms.
+Design, implement, and manage database systems to ensure optimal performance and data integrity.
+Build and maintain APIs to support front-end functionality and third-party integrations.
+Optimize applications for maximum speed and scalability, ensuring high performance under increased loads.
+Implement security and data protection solutions to safeguard sensitive information.
+Identify, diagnose, and resolve technical issues in a timely and effective manner.
+Ensure high standards of code quality, organization, and documentation.
+Collaborate with cross-functional teams to translate requirements into technical solutions.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection measures.
+Ensure the technical feasibility of UI/UX designs.
+Stay updated with industry trends and incorporate best practices into our systems.
+
+Qualifications:
+Bachelor s or Master s degree in computer science, engineering, or related field.
+Ability to work during Eastern Standard Time regular business hours.
+Demonstrated programming skills with SAS, Spark, Python, PySpark, R or equivalent languages.
+Demonstrated experience working with Anti-Financial Crime and Compliance technologies. For example: Transaction Monitoring Systems, KYC/CDD, Sanctions and Wire screening Applications, Network Analysis, Entity Resolution & Identification and Segmentation utilities or Case Management solutions.
+Strong working knowledge and familiarity with Palantir Foundry applications, products, and solutions.
+5+ years of experience in backend development in a fast-paced environment.
+Proficiency in backend programming languages like Python, Node.js, etc.
+Experience with database technologies and web service technologies.
+Experience with API design, development and consumption.
+Knowledge of cloud services (AWS, Azure, GCP) and containerization technologies (Docker, Kubernetes).
+Strong understanding of code versioning tools, such as Git.
+Server-side development experience.
+Open-source or community contributions.
+Knowledge of JIRA, Azure DevOps and other product management tools.
+Understanding of RESTful API design principles.
+Knowledge of security best practices for web and mobile applications.
+Excellent problem-solving skills and attention to detail.
+Ability to work effectively in a collaborative team environment."
+
+
+"Web Developer:
+
+Skills
+
+Design
+Programming languages
+Collaboration
+Continuous improvement
+Computer science
+Software engineering
+MIRO
+HTML
+Cascading style sheets
+JavaScript
+PHP
+Content management systems
+WordPress
+Joomla
+Drupal
+Web applications
+Git
+Version control
+Problem solving
+SEO
+Web analytics
+Accessibility
+Communication
+Attention to detail
+Web development
+
+Job Description
+Job Description
+Coeadapt is seeking a web developer for out team and our clients. As a web developer, you will be responsible for developing and maintaining websites and web applications for both internal and external clients. You will be working with a team of developers, designers, and project managers to create high-quality web solutions that meet the needs of our clients.
+
+Key Responsibilities:
+Develop and maintain websites and web applications based on client requirements.
+Work with project managers to gather project requirements and scope out project timelines and requirements.
+Design, develop, and maintain code for web applications using various programming languages such as HTML, CSS, JavaScript, and PHP.
+Optimize website and web application performance to ensure fast load times and seamless user experiences.
+Create and maintain web applications that are accessible and responsive across multiple devices and platforms.
+Collaborate with team members to ensure all projects are delivered on time and to a high standard.
+Stay up-to-date with web development trends and best practices to ensure continuous improvement.
+Key Requirements:
+A bachelor's degree in computer science, software engineering, or a related field.
+Experience working with webflow and Odoo websites are a must
+Experince building Miro applications is required, but either skillset is valuable
+Extensive experience in web development using HTML, CSS, JavaScript, and PHP.
+Proficiency in using content management systems such as WordPress, Joomla and Drupal.
+Experience in developing and maintaining responsive websites and web applications.
+Experience in using Git for version control.
+Excellent problem-solving skills and ability to troubleshoot issues in a timely and effective manner.
+Solid understanding of SEO principles, web analytics, and accessibility standards.
+Ability to work independently and as part of a team in a fast-paced environment.
+Excellent communication skills, attention to detail, and a passion for web development."
+
+"Software Engineer:
+
+Skills
+
+Laravel
+PHP
+Application development
+Amazon Web Services
+Hosting
+JavaScript
+HTML
+Cascading style sheets
+XML
+JSON
+Frontend Development
+JavaScript frameworks
+Vue.js
+React.js
+Database
+MySQL
+NoSQL
+PostgreSQL
+Microsoft SQL Server
+Oracle
+Management
+Version control
+GitHub
+
+Job Details
+Description
+
+The selected candidate will join our team in a key role, working on development and maintenance of software applications. This role involves working extensively with Laravel PHP and a variety of other technologies in a dynamic and fast-paced environment.
+Responsibilities:
+Develop and maintain software applications using Laravel PHP Work with Forge and Vapor for streamlined application development Leverage Amazon Web Services for application hosting and scaling Utilize JavaScript, HTML, CSS, XML, and JSON for frontend development Work with JavaScript frameworks and toolkits, such as VueJS and ReactJS Develop and maintain databases using MySQL, NoSQL, PostgreSQL, SQL Server, or Oracle Manage source control and version control using GitHub Uphold development best practices throughout the software development lifecycle Participate in code review processes and quality reviews Develop APIs for external consumption
+**must be eligible to work in the U.S.'S ONLY
+
+Requirements
+
+Proven experience as a Software Engineer or similar role for a minimum of 10 years Advanced Full-stack development experience Extensive knowledge of Atlassian Jira and Bug Tracking Advanced skills PHP, Forge and vapor Experience with Laravel and other relevant frameworks Familiarity with Agile Scrum methodologies Proficient in AB Testing and API Development Ability to troubleshoot complex software issues Excellent communication skills and attention to detail Strong analytical thinking and problem-solving capabilities Ability to work well in teams and independently"
+
+
+"Full-Stack Software Developer:
+
+Skills
+
+JavaScript
+Cascading style sheets
+PHP
+Python
+jQuery
+Bootstrap
+Node.js
+C++
+Frontend Development
+SPA
+RESTful
+Ajax
+Software implementation
+HTTP
+MQTT
+Laravel
+mvc
+Web application security
+Testing
+SQL
+Design
+MySQL
+Database
+Vue.js
+AngularJS
+React.js
+Git
+Software development
+Workflow
+RF
+Computer science
+Leadership
+Web servers
+Optimization
+HTML
+Agile
+Test-driven development
+UI
+SANS
+
+Job Details
+Description
+In a nutshell need a strong PHP Developer with at least 5-7 years of PHP development as a full stack developer. Should have good experience with backend and front end development using both MySQL and developing an consuming RESTFUL API's and also have good front end skills with Javascript, HTML, CSS and Javascript libraries (VueJS, ReactJS, Angular, etc). This is a full time role with a fast growing company. Let's talk!
+
+Primary responsibilities:
+
+Core Skills: JavaScript, HTML, CSS, PHP, Python, jQuery, Bootstrap, Node.js, C++
+Experience with responsive front-end development and single-page application (SPA) design
+Experience with RESTful API design and AJAX
+Application/implementation of HTTP and MQTT protocols
+Familiarity with Laravel and other MVC frameworks
+Experience in web application security concepts and testing/scanning tools
+SQL query design with MySQL or another DBMS
+UI design libraries such as Vue.js, AngularJS, ReactJS, etc.
+Git software development workflows
+Understanding of basic radio frequency concepts
+In person attendance: location/schedule: San Diego office, regular business hours
+Requirements:
+The candidate should have 2-5 years of relevant experience
+BS/MS in Computer Science, Engineering, or a related discipline
+Lead front-end software developer on market-released products
+Full web stack capability, including protocols and web server optimization techniques
+Experience developing interactive HTML canvas visualizations
+Work in an environment of Agile software and test-driven development"
+
+
+"Web Developer:
+
+Skills
+
+High performance computing
+Web development
+PHP
+Interfaces
+Accessibility
+Privacy
+Quality control
+User experience
+Security+
+LAMP
+Web applications
+Linux
+Problem solving
+Attention to detail
+HTML
+Cascading style sheets
+JavaScript
+jQuery
+SQL
+XML
+Shell scripting
+Adobe Photoshop
+VI
+VMware Infrastructure
+Vim
+Bootstrap
+Responsive design
+MySQL
+Section 508
+Regulatory Compliance
+STIG
+SSL
+Apache HTTP Server
+Technical writing
+
+Key Responsibilities
+
+Develop, maintain, and enhance public and private websites and web applications using the LAMP stack (Linux, Apache, MySQL, PHP)
+
+Create responsive and visually appealing user interfaces using JavaScript/JQuery and Bootstrap.
+
+Ensure compliance with DoD and Federal regulations, including Section 508 accessibility standards and Privacy Act restrictions.
+
+Enforce typographic and visual standards and provide quality control for all content.
+
+Maintain code quality through best practices and standards.
+
+Stay up-to-date on emerging web technologies and evaluate for use within a secure environment.
+
+Investigate and resolve web-related trouble tickets in a timely manner.
+
+Contribute to immediate to long-range strategic plans to enhance the user experience.
+
+Required Skills and Experience
+
+Bachelor's Degree and 4 years' work experience or equivalent experience
+
+Proven experience as a LAMP Stack developer with a strong portfolio of websites or web applications.
+
+Experience developing in a Linux environment is a must.
+
+Strong understanding of HTML, CSS, JavaScript/JQuery, XML, and Bootstrap.
+
+Effective communicator able to work collaboratively in a team environment.
+
+Excellent problem-solving skills and attention to detail.
+
+Substantial experience with HTML, CSS, JavaScript/JQuery, SQL, XML, shell scripting, Photoshop, vi/vim, MS Word Desired Skills and Experience
+
+Experience with customized Bootstrap deployments and responsive design
+
+Experience with MySQL/MariaDB
+
+General understanding of Web STIGs General understanding of SSL and Apache"
+

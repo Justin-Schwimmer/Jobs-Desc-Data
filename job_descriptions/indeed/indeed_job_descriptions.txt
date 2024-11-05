@@ -1,0 +1,631 @@
+"Full Stack Developer: 
+
+Skills: 
+
+React
+Node.js
+JavaScript
+Git
+Communication skills
+Back-end development
+AWS
+
+Dante is hiring a full time Full Stack Engineer to join our growing team. Dive right in working alongside Dante teammates and client stakeholders to build robust scalable serverless software in the cloud for our enterprise private sector clients. Client industries include Airlines, Communications, Finance, Media, Telecommunications and more. We are building dynamic solutions while approaching consulting in a unique and refreshing way, using Cloud Native and serverless architecture & development using React, Node.js, AWS Lambda and DynamoDB. We use a cutting edge approach to build microservices for event-driven, large scale enterprise software solutions.
+
+Full Stack/Senior Full Stack Engineer
+
+Responsibilities:
+
+Work closely with Dante team and client stakeholders using Cloud Native Architecture (e.g., JavaScript, React, Node.js, AWS Lambda, DynamoDB, etc.)
+Work across full technology stack to deliver end to end solutions using Lean methodologies
+Work closely with teams and independently to complete deliverables on time
+Write Lambda functions to execute event-driven software solutions
+Continue to learn and introduce emerging technologies that may provide more effective solutions
+Must haves:
+
+5+ years of on-the-job experience writing AWS Lambda functions
+5 + years of enterprise serverless application development practical on-the-job experience using JavaScript, Node.js, React and DynamoDB
+5+ years of experience with event-driven architecture and development for a large private sector enterprise
+5+ years of experience developing microservices
+5+ years of experience developing multi-tier software applications, integrating with AWS services on the back end
+Experience with iterative development in a fast paced environment using Agile methodology
+Demonstrated ability to quickly develop subject matter expertise
+Demonstrated ability to effectively interact with project team and client stakeholders
+Must have effective communication and listening skills
+MUST have U.S. Citizenship or possess Green Card
+MUST live in Virginia, Maryland, Washington DC, Georgia, Texas, California, Oregon, Washington or Colorado
+Nice to Haves:
+
+Prior experience in a consulting environment with private sector enterprise clients a BIG plus
+Experience with Git, Jasmine, Mocha, Atlassian suite a plus
+Prior experience in a Lean development environment is a plus"
+
+"Senior Backend Software Engineer: 
+
+Skills:
+
+Rust
+Go
+C
+C++
+AI
+
+About the Role
+
+We're seeking a talented Senior Backend Engineer who is passionate about crafting high-performance, scalable systems in Golang. This is an opportunity to join a growing startup, where you'll be responsible for designing and implementing core backend infrastructure, focusing on performance, reliability, and scalability for our AI-enabled legal-tech platform.
+
+What You'll Do:
+
+Develop and Optimize Backend Systems: Write efficient, clean, and maintainable code primarily in Golang. You'll build the core backend infrastructure, ensuring high performance and scalability.
+Architect and Scale Infrastructure: Design and diagram complex, multi-tiered architectures, including video processing and streaming clusters. Your designs will be capable of scaling from 10 to 1000+ servers, with an understanding of step functions and performance considerations at each tier.
+Enhance Performance at Scale: Utilize high-performance computing techniques and best practices in scalable computing. You'll pack bits, manage concurrency with CSP (Communicating Sequential Processes), and optimize data structures for speed and efficiency.
+Collaborate Across Teams: Work with cross-functional teams to integrate frontend and backend systems, although in-depth frontend expertise is not required. Your role focuses on backend excellence, with a strong foundation in architecture.
+Innovate with Technology: Continuously learn and experiment with new technologies like Rust and C/C++, bringing new insights to our tech stack.
+Who You Are:
+
+Experienced Backend Engineer: You have extensive experience with Golang and are skilled in high-performance and scalable computing. You're comfortable with concepts like CSP and can easily explain why Golang maps are unordered.
+System Architect: You think in terms of architectures, able to design robust, scalable systems and explain them at a high level. You're familiar with the complexities of scaling clusters to 1000+ machines and understand the shift in paradigms at various scale tiers.
+Tech Enthusiast: You bring an engineering mindset that sees software development as both an art and a science. Whether discussing bit-packing optimizations or the trade-offs in hash map implementations, you have a passion for well-crafted systems.
+Independent Problem-Solver: You have a natural drive to dive into challenges, from backend-specific optimization to scalable architecture. You can break down complex problems and provide elegant solutions without heavy external guidance.
+Preferred Skills:
+
+Proficiency in Golang (experience with Rust or C/C++ is a plus).
+Solid knowledge of high-performance computing, scalable computing, and CSP principles.
+Familiarity with designing, deploying, and managing large-scale clusters, particularly for video processing and streaming.
+Strong understanding of data structures, algorithm optimizations, and memory management."
+
+"Senior Application Developer: 
+
+Skills
+
+WordPress
+PHP
+Web development
+SDLC
+JavaScript
+HTML
+GitHub
+Design patterns
+jQuery
+SQL
+Project management
+MySQL
+Communication skills
+CSS
+Analysis skills
+APIs
+Organizational skills
+
+JOB DUTIES AND RESPONSIBILITIES
+
+Develop and support WordPress-based php/mysql snippets and plugins for an intranet-based internal tools platform and the company website.
+Develop and support data and resource-intensive applications in the WordPress-based intranet
+Develop a Payroll System based on WordPress/PHP/MySQL components to replace the current AS400-based payroll system - includes interfacing with an outsourced payroll engine
+Support application and data migration efforts from NetSuite to the WordPress-based intranet platform including development/maintenance of tools to assist the migration
+Write well-designed, testable, efficient, and secure code for single system requests
+Interface with the Senior Director, Application Software Development, various departments, users, consultants, and IT staff as required by development needs and requests
+Identify inefficiencies in process, systems, and tools, and recommend improvements
+Understand and develop software following the SDLC guidelines
+Assist in teh development and implementation of security features that will protect the Fund's information systems
+Work with users and technical staff in implementing the overall FMSMF systems plan
+Create technical specification documents to effectively support initial development and ongoing maintenance efforts
+Assist operations teams and Business Analyst in the creation of user guides and training documentation
+Provide second-level tech support for software related help requests and follow up with users
+REQUIREMENTS
+
+Minimum of 4 years of PHP development experience
+Minimum of 2 years of advanced WordPress PHP development including mastery of actions and filters
+Advanced SQL experience (4 years of MySQL experience preferred)
+Substantial knowledge of and experience with JavaScript and HTML
+Deep level of experience with and understanding of programming design patterns and algorithms
+Experience with secure integrations between remote systems
+Experience working on a complex and/or large-scope development project
+Solid understanding of SDLC and project management concepts
+Solid understanding of and experience with GitHub
+ADDITIONAL/PREFERRED SKILLS
+
+Advanced WordPress PHP/MySQL development including a firm grasp of action and filter hooks as well as experience developing WordPress plugins
+Experience with standard website development technologies: HTML, JavaScript, jQuery, and CSS
+Ability to develop APIs
+NetSuite SuiteCloud/Suitescript 2 experience
+OTHER ABILITIES/SKILLS
+
+Ability to maintain confidentiality and handle sensitive matters with discretion
+Ability to work independently - a self-starter
+Ability to work on multiple projects simultaneously and effectively prioritize workload
+Good organizational skills
+Strong analysis, assessment, and evaluation skills
+Advanced problem-solving skills
+Approaches work proactively, with a consistent focus on preventing potential issues
+Effective verbal and written communication skills
+Ability to communicate with all levels of staff"
+
+
+"PHP Developer:
+
+Skills:
+
+Software development
+PHP
+MySQL
+Laravel
+JavaScript
+HTML
+Communication skills
+CSS
+Database management
+
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+Proven experience as a PHP Developer, with a strong portfolio of web applications.
+Proficiency in PHP frameworks such as Laravel, Symfony, or CodeIgniter.
+Familiarity with front-end technologies like HTML, CSS, and JavaScript.
+Experience with database management systems, particularly MySQL or PostgreSQL.
+Understanding of RESTful APIs and web services.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities."
+
+"web developer: 
+
+Skills:
+
+jQuery
+PHP
+MySQL
+E-commerce
+Communication skills
+CSS
+
+We are looking for a Senior e-commerce Website Developer who shares our passion for Magento and eCommerce. You will be responsible for building, maintaining, enhancing and optimizing our core product offerings to clients of all sizes from small mom and pops to corporate giants.
+
+QUALIFICATIONS:
+
+6+ years of overall cross-platform e-commerce web development is preferred.
+Magento experienced is required
+3-4 years of PHP development is required
+Must have strong knowledge of CSS, Javascrip, MYSQl and JQuery
+Must have excellemnt communication skill, both written and verbal
+Must be able to do multi-task and handle multiple projects at time"
+
+"Web Developer: 
+
+Skills:
+
+WordPress
+Web development
+Vue.js
+React
+Python
+PHP
+Node.js
+MySQL
+MongoDB
+JavaScript
+HTML
+Git
+Debugging
+Databases
+CSS
+Back-end development"
+
+"LARAVEL DEVELOPER: 
+
+Skills:
+
+jQuery
+WordPress
+PHP
+MySQL
+Laravel
+JavaScript
+HTML
+Git
+CSS
+APIs
+
+YOU SHOULD HAVE:
+An expertise in PHP, MySQL, HTML5, and CSS3.
+A portfolio with live links to sites that you have developed previously (preferred).
+Laravel experience (preferred).
+Expertise in other platforms such as WordPress (preferred).
+The ability to convert PSDs to Laravel and PHP sites.
+The ability to work in a LAMP development environment.
+The ability to handle multiple projects and tasks at the same time.
+Great attention to detail and a highly organized work style.
+A reliable workstation with a fast computer, microphone, and speakers for calls.
+Reliable internet and power (maximum of 1 hour of outage per month).
+The ability to work hours similar to the rest of the Coalition Team (9 am-6 pm PST).
+The ability to articulate yourself professionally.
+Excellent written and spoken English.
+The ability to adapt in a diverse and multicultural environment.
+A positive and upbeat attitude.
+The passion to build a startup.
+A reliable workstation with a fast computer, microphone, and speakers, reliable internet and power if working remotely.
+YOUR DUTIES AND TASKS:
+Working daily in PHP, MySQL, JavaScript, JQuery, WordPress, Laravel, and Magento 1/2.
+Designing and building web applications using Laravel and other platforms.
+Converting PSDs into pixel perfect responsive Laravel and custom PHP sites.
+Resolving cross-browser compatibility issues.
+Writing clean structured and well-documented code.
+Integrating data with Sage, Quickbooks, WordPress, Salesforce, APIs, and ERP/stock management systems.
+Working with LAMP development environment and version control GIT/SVN."
+
+"Web Developer: 
+
+Skills
+
+jQuery
+XML
+WordPress
+SEO
+Responsive web design
+Python
+PHP
+JavaScript
+Java
+JSON
+HTML
+Git
+Drupal
+Debugging
+CSS
+Back-end development
+
+QUALIFICATIONS
+
+3-5 years of experience.
+Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery
+Experience building user interfaces for websites and/or web applications
+Experience designing and developing responsive design websites
+Comfortable working with debugging tools like Firebug, Chrome inspector, etc.
+Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers
+Ability to convert comprehensive layout and wireframes into working HTML pages
+Knowledge of how to interact with RESTful APIs and formats (JSON, XML)
+Proficient understanding of code versioning tools such as Git
+Strong understanding of PHP back-end development
+Ability code custom WordPress plug-ins
+Understanding of current best programming practices and Search Engine Optimization.
+
+A PLUS WOULD BE
+
+LESS/SCSS/SASS Knowledge
+Experience with programming languages like Ruby, Java, Pearl and/or Python
+Experience with site maintenance and backups in Web Host Manager and cPanel
+Knowledge of other CMS platforms including Drupal, Contentful, Shopify & Magento"
+
+"Website Developer:
+
+Skills
+
+WordPress
+E-commerce
+APIs
+SEO
+HTML
+CSS
+UX
+Responsive web design
+PHP
+MySQL
+JavaScript
+Git
+Adobe Creative Suite
+Web analytics
+Digital marketing
+
+What You'll Do
+
+Craft Stunning Websites: Design and develop responsive, user-friendly WordPress websites that reflect Razor USA’s brand and vision.
+E-Commerce Integration: Manage e-commerce platforms like WooCommerce and SmartCommerce, ensuring seamless integration with payment gateways and third-party tools.
+Build Beautiful Themes: Create custom themes and plugins based on our designs, ensuring both functionality and aesthetic appeal.
+Optimize for Success: Implement technical SEO best practices to enhance our search rankings and drive traffic, optimizing websites for speed, performance, and a seamless user experience.
+Keep Us Running Smoothly: Maintain and troubleshoot websites to ensure optimal performance, security, and speed, while implementing data protection measures.
+Analytics & Improvements: Use tools like Google Analytics to monitor traffic and user engagement, driving data-informed improvements to the websites.
+Integrate with Ease: Seamlessly integrate third-party tools and APIs (e.g., Salesforce, custom APIs) for enhanced functionality and data synchronization.
+Collaborate with the Best: Work closely with our marketing, IT, and design teams to deliver exceptional results and stay ahead of the latest web technologies.
+What You’ll Need to Succeed
+
+Experience: 5+ years of WordPress development experience, with a strong portfolio showcasing your work.
+Technical Proficiency: Deep knowledge of WordPress, HTML, CSS, JavaScript, PHP, MySQL, and SEO best practices.
+Theme & Plugin Development: Expertise in creating custom themes and plugins, along with familiarity with website builders like Beaver Builder and WP Engine.
+E-Commerce Platform Experience: Familiarity with WooCommerce, SmartCommerce, and WP Engine Plugins.
+Responsive Design Skills: A keen eye for responsive design and a commitment to user experience.
+API Integration: Experience integrating third-party APIs (e.g., Zip, PayPal) for enhanced website functionality.
+Security & Compliance Knowledge: Strong understanding of website security best practices and compliance with data protection regulations.
+Graphic Design Sensibility: Strong visual design skills and experience working with design tools like Adobe Creative Suite.
+UX/UI Design Principles: Ability to create intuitive, user-friendly website interfaces.
+Clear Communication: Ability to communicate effectively and work collaboratively in a team environment.
+Bonus Points If You Have:
+
+A background in digital marketing and web analytics.
+A solid understanding of UX design principles.
+Familiarity with version control systems like Git and website performance optimization techniques."
+
+
+"PHP Developer:
+
+Skills:
+
+Software development
+PHP
+MySQL
+Laravel
+JavaScript
+HTML
+Communication skills
+CSS
+Database management
+
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+Proven experience as a PHP Developer, with a strong portfolio of web applications.
+Proficiency in PHP frameworks such as Laravel, Symfony, or CodeIgniter.
+Familiarity with front-end technologies like HTML, CSS, and JavaScript.
+Experience with database management systems, particularly MySQL or PostgreSQL.
+Understanding of RESTful APIs and web services.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities."
+
+"web developer: 
+
+Skills:
+
+jQuery
+PHP
+MySQL
+E-commerce
+Communication skills
+CSS
+
+We are looking for a Senior e-commerce Website Developer who shares our passion for Magento and eCommerce. You will be responsible for building, maintaining, enhancing and optimizing our core product offerings to clients of all sizes from small mom and pops to corporate giants.
+
+QUALIFICATIONS:
+
+6+ years of overall cross-platform e-commerce web development is preferred.
+Magento experienced is required
+3-4 years of PHP development is required
+Must have strong knowledge of CSS, Javascrip, MYSQl and JQuery
+Must have excellemnt communication skill, both written and verbal
+Must be able to do multi-task and handle multiple projects at time"
+
+"Web Developer: 
+
+Skills:
+
+WordPress
+Web development
+Vue.js
+React
+Python
+PHP
+Node.js
+MySQL
+MongoDB
+JavaScript
+HTML
+Git
+Debugging
+Databases
+CSS
+Back-end development"
+
+"LARAVEL DEVELOPER: 
+
+Skills:
+
+jQuery
+WordPress
+PHP
+MySQL
+Laravel
+JavaScript
+HTML
+Git
+CSS
+APIs
+
+YOU SHOULD HAVE:
+An expertise in PHP, MySQL, HTML5, and CSS3.
+A portfolio with live links to sites that you have developed previously (preferred).
+Laravel experience (preferred).
+Expertise in other platforms such as WordPress (preferred).
+The ability to convert PSDs to Laravel and PHP sites.
+The ability to work in a LAMP development environment.
+The ability to handle multiple projects and tasks at the same time.
+Great attention to detail and a highly organized work style.
+A reliable workstation with a fast computer, microphone, and speakers for calls.
+Reliable internet and power (maximum of 1 hour of outage per month).
+The ability to work hours similar to the rest of the Coalition Team (9 am-6 pm PST).
+The ability to articulate yourself professionally.
+Excellent written and spoken English.
+The ability to adapt in a diverse and multicultural environment.
+A positive and upbeat attitude.
+The passion to build a startup.
+A reliable workstation with a fast computer, microphone, and speakers, reliable internet and power if working remotely.
+YOUR DUTIES AND TASKS:
+Working daily in PHP, MySQL, JavaScript, JQuery, WordPress, Laravel, and Magento 1/2.
+Designing and building web applications using Laravel and other platforms.
+Converting PSDs into pixel perfect responsive Laravel and custom PHP sites.
+Resolving cross-browser compatibility issues.
+Writing clean structured and well-documented code.
+Integrating data with Sage, Quickbooks, WordPress, Salesforce, APIs, and ERP/stock management systems.
+Working with LAMP development environment and version control GIT/SVN."
+
+"Web Developer: 
+
+Skills
+
+jQuery
+XML
+WordPress
+SEO
+Responsive web design
+Python
+PHP
+JavaScript
+Java
+JSON
+HTML
+Git
+Drupal
+Debugging
+CSS
+Back-end development
+
+QUALIFICATIONS
+
+3-5 years of experience.
+Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery
+Experience building user interfaces for websites and/or web applications
+Experience designing and developing responsive design websites
+Comfortable working with debugging tools like Firebug, Chrome inspector, etc.
+Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers
+Ability to convert comprehensive layout and wireframes into working HTML pages
+Knowledge of how to interact with RESTful APIs and formats (JSON, XML)
+Proficient understanding of code versioning tools such as Git
+Strong understanding of PHP back-end development
+Ability code custom WordPress plug-ins
+Understanding of current best programming practices and Search Engine Optimization.
+
+A PLUS WOULD BE
+
+LESS/SCSS/SASS Knowledge
+Experience with programming languages like Ruby, Java, Pearl and/or Python
+Experience with site maintenance and backups in Web Host Manager and cPanel
+Knowledge of other CMS platforms including Drupal, Contentful, Shopify & Magento"
+
+"Website Developer:
+
+Skills
+
+WordPress
+E-commerce
+APIs
+SEO
+HTML
+CSS
+UX
+Responsive web design
+PHP
+MySQL
+JavaScript
+Git
+Adobe Creative Suite
+Web analytics
+Digital marketing
+
+What You'll Do
+
+Craft Stunning Websites: Design and develop responsive, user-friendly WordPress websites that reflect Razor USA’s brand and vision.
+E-Commerce Integration: Manage e-commerce platforms like WooCommerce and SmartCommerce, ensuring seamless integration with payment gateways and third-party tools.
+Build Beautiful Themes: Create custom themes and plugins based on our designs, ensuring both functionality and aesthetic appeal.
+Optimize for Success: Implement technical SEO best practices to enhance our search rankings and drive traffic, optimizing websites for speed, performance, and a seamless user experience.
+Keep Us Running Smoothly: Maintain and troubleshoot websites to ensure optimal performance, security, and speed, while implementing data protection measures.
+Analytics & Improvements: Use tools like Google Analytics to monitor traffic and user engagement, driving data-informed improvements to the websites.
+Integrate with Ease: Seamlessly integrate third-party tools and APIs (e.g., Salesforce, custom APIs) for enhanced functionality and data synchronization.
+Collaborate with the Best: Work closely with our marketing, IT, and design teams to deliver exceptional results and stay ahead of the latest web technologies.
+What You’ll Need to Succeed
+
+Experience: 5+ years of WordPress development experience, with a strong portfolio showcasing your work.
+Technical Proficiency: Deep knowledge of WordPress, HTML, CSS, JavaScript, PHP, MySQL, and SEO best practices.
+Theme & Plugin Development: Expertise in creating custom themes and plugins, along with familiarity with website builders like Beaver Builder and WP Engine.
+E-Commerce Platform Experience: Familiarity with WooCommerce, SmartCommerce, and WP Engine Plugins.
+Responsive Design Skills: A keen eye for responsive design and a commitment to user experience.
+API Integration: Experience integrating third-party APIs (e.g., Zip, PayPal) for enhanced website functionality.
+Security & Compliance Knowledge: Strong understanding of website security best practices and compliance with data protection regulations.
+Graphic Design Sensibility: Strong visual design skills and experience working with design tools like Adobe Creative Suite.
+UX/UI Design Principles: Ability to create intuitive, user-friendly website interfaces.
+Clear Communication: Ability to communicate effectively and work collaboratively in a team environment.
+Bonus Points If You Have:
+
+A background in digital marketing and web analytics.
+A solid understanding of UX design principles.
+Familiarity with version control systems like Git and website performance optimization techniques."
+
+
+"Lead Full Stack Web Developer
+
+Skills
+
+React
+PHP
+Node.js
+JavaScript
+Java
+Docker
+AWS
+
+Web development
+
+Full job description
+We are seeking an experienced Lead Full Stack Web Developer with a strong background in Node.js and React.js, along with expertise in Docker and Kubernetes. Proficiency in Java and PHP is a plus.
+
+Key Qualifications:
+10+ years of professional experience in full-stack web development with at least one year in a lead position.
+Strong expertise in Node.js and React.js.
+Hands-on experience with AWS, RDBMS, Docker, and Kubernetes.
+Additional skills in Typescript, PostgreSQL, Java, and PHP are highly desirable.
+Skills in image processing are an added advantage
+
+Responsibilities:
+Develop and maintain high-quality web applications.
+Collaborate with cross-functional teams to design and implement new features.
+Ensure the performance, quality, and responsiveness of applications.
+Troubleshoot and debug issues as they arise.
+Stay updated with the latest industry trends and technologies."
+
+"Frontend  Software Development Engineer:
+
+In this role, you will:
+Solve complex problems and own the success of your solutions as you architect, build, test, and deliver full-stack products.
+Communicate, collaborate, and develop with engineers, other platform teams, product teams, product managers, designers, and support teams.
+Build upon skills and knowledge across a range of technologies such as Go, GraphQL, Typescript, React, and MySQL. Due to the nature of the role, previous experience with React is required, but experience with the other technologies is not required.
+Own the operational health of production systems as we build for the future scale of an ever-growing customer base.
+Make an impact on our core architecture, roadmap, and the wider engineering community.
+Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices.
+Minimum requirements for the role:
+
+You have at least a Bachelor's degree in Computer Science or similar, or corresponding level of relevant education.
+You have 2+ years of experience working professionally with modern development practices.
+You have knowledge of designing, architecting, and developing applications using JavaScript/Typescript and React.
+Experience working with Designers, PMs, and other developers to ship E2E features to production environments.
+You can translate Design Specs into code, you can act as an interface between Design and Engineering, and you can balance the priorities of Design and Engineering.
+An ideal candidate also has:
+
+Experience with design systems.
+Experience with web accessibility.
+Experience using GraphQL.
+Experience with CICD pipelines.
+Understanding and interest for building and maintaining large applications as well as extensible libraries/frameworks/APIs.
+Experience with packaging systems (ex: Webpack), frontend testing frameworks (Jest, Enzyme, etc.), linting tools (ESLint, Prettier, etc.), Git, and Storybook."
+
+"Web Developer & SEO: 
+
+Full job description
+Job Summary
+We are seeking a skilled and motivated Web Developer & SEO expert to join our dynamic team. The ideal candidate will have a passion for creating innovative web applications and a strong understanding of both front-end and back-end development. You will be responsible for designing, coding, and maintaining web applications that provide an excellent user experience while ensuring functionality and performance.
+
+Duties
+
+Develop and maintain responsive web applications using modern frameworks and technologies.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Write clean, maintainable code while adhering to best practices in software development.
+Integrate with various APIs and web services to enhance application functionality.
+Conduct unit testing to ensure quality and reliability of the codebase.
+Troubleshoot and debug applications to optimize performance.
+Utilize tools such as Jenkins for continuous integration and deployment.
+Stay updated on emerging technologies and industry trends to incorporate into projects.
+Experience
+
+Proficiency in web development languages such as HTML, CSS, JavaScript, and SQL.
+Familiarity with frameworks like Bootstrap for responsive design.
+Experience working with APIs including SOAP and GraphQL.
+Knowledge of web services architecture and best practices.
+Understanding of version control systems (e.g., Git) and containerization (e.g., Docker).
+Strong problem-solving skills with attention to detail.
+Ability to work independently as well as part of a collaborative team environment.
+If you are passionate about web development and eager to contribute to exciting projects, we encourage you to apply. Join us in creating exceptional digital experiences!"

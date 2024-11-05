@@ -1,0 +1,458 @@
+"Full Stack Software Engineer:
+
+About the Job:
+
+Design and implement user-facing web applications at scale and hold up to expansion of a diverse user base
+Raise the bar in engineering innovation and the evolution of our approach to backend and front end development
+Communicate and deliver complex, technical solutions to a variety of stakeholders both technical and non technical
+Develop and maintain highly scalable and reliable web applications and user interfaces (UIs) to interact with complex backend systems to a consumer facing audience
+Utilize product requirements and engage with cross functional teams to deliver rapidly evolving product in a timely manner
+Minimum Qualifications:
+
+3+ years of experience in full stack software development
+Comprehensive computer science fundamentals in coding, object-oriented programming, data structures, and algorithms
+Experience in client side development using ReactJS, Javascript, AngularJS, or other modern programming language
+Experience building and developing large-scale user facing web applications
+Preferred Qualifications:
+
+5+ years of experience in full stack software development"
+
+
+"PHP Back End Developer:
+
+Job description
+Job Description:
+
+JohnHart is seeking a highly skilled Full Stack Developer with a strong foundation in PHP to join our dynamic development team. The ideal candidate will have extensive experience with PHP frameworks, a deep understanding of the Model-View-Controller (MVC) architecture, and expertise in object-oriented programming (OOP). This role requires a balance of front-end and back-end development, with a focus on building scalable, maintainable web applications.
+
+Key Responsibilities:
+
+Develop and maintain robust, scalable web applications using PHP, adhering to best practices in MVC and OOP.
+Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+Design, build, and maintain efficient, reusable, and reliable PHP code.
+Write clear, maintainable, and efficient code while following best practices in software development.
+Build and maintain the back-end architecture and APIs that power our applications.
+Debug and resolve application issues, ensuring high performance and responsiveness.
+Work with SQL databases (MySQL or similar) to design and manage schemas, queries, and optimizations.
+Ensure cross-platform optimization and responsiveness of web applications.
+Participate in the full software development lifecycle, including planning, development, testing, deployment, and support.
+Requirements:
+
+Extensive experience in PHP: 3+ years of experience developing web applications using PHP.
+Strong understanding of the MVC architecture: Proficiency in PHP frameworks like Laravel, Symfony, or similar.
+Expertise in Object-Oriented Programming (OOP): Strong knowledge of design patterns and principles.
+Experience working with front-end technologies (HTML, CSS, JavaScript) and integrating them with back-end logic.
+Strong understanding of databases, especially MySQL, including complex queries, performance optimization, and database schema design.
+Familiarity with RESTful APIs and integrating third-party services.
+Experience with version control systems such as Git.
+Proficient in working with server environments, including setting up and maintaining PHP applications.
+Nice-to-Have:
+
+Experience with modern front-end frameworks like React, Vue.js, or Angular.
+Experience with Linux based operating systems.
+Knowledge of security best practices for web applications.
+Soft Skills:
+
+Strong problem-solving abilities, creativity and critical thinking skills.
+Excellent communication skills and the ability to work collaboratively in a team environment.
+A proactive approach to learning new technologies and improving existing systems."
+
+
+"Job description
+REMOTE - Senior Software Engineer
+If you are a REMOTE - Senior Software Engineer with experience, please read on!
+Top Reasons to Work with Us
+We are a profitable ecommerce startup that is on the verge of something big!
+
+We are looking to bring on a Senior Software Engineer, to help migrate and build consumer-facing, high-traffic products, from the ground up.
+What You Will Be Doing
+- Lead efforts to build and migrate features from the current LAMP stack application to Google Cloud, using NodeJs, VueJS, CloudSQL and Google Cloud technologies.
+- Collaborate with cross-functional teams, including product management, QA, and operations, to define and prioritize engineering efforts
+- Oversee the design and development of new products and technologies, including prototyping and testing.
+- Manage the entire product development life cycle, from concept to launch
+- Identify and troubleshoot technical issues, and implement solutions to improve product performance and reliability
+- Contribute to the development of technical roadmaps and long-term strategic plans
+- Stay up-to-date with industry trends and best practices, and continually improve engineering processes and methodologies
+- Actively participate in code review and test solutions to ensure it meets best practice specifications
+What You Need for this Position
+- 10+ years of software development experience
+- Working knowledge of PHP applications (experience migrating LAMP stack is a strong plus)
+
+- REACT
+- Vue
+- Node.js
+- Google Cloud Platform
+- JavaScript
+- PHP
+- Rest APIs
+- MySQL
+- NoSQL
+- Automated Testing"
+
+
+"Full Stack Software Engineer:
+
+Key Responsibilities:
+
+Develop and maintain business-critical API integrations.
+
+Design and implement scalable backend architecture.
+
+Create high-performance, reusable, and reliable code.
+
+Collaborate with team members to define, design, and implement new features.
+
+Identify and resolve bottlenecks and bugs.
+
+Assist in maintaining code quality, organization, and automation.
+
+ 
+
+Key Qualifications:
+
+3+ years of experience in software engineering.
+
+Strong familiarity with .NET Framework and SQL databases is required.
+
+Proficiency with AWS services such as API Gateway and App Sync is a plus.
+
+Bachelor's degree in Computer Science or related field.
+
+Ability to manage multiple tasks and prioritize deadlines.
+
+ 
+
+What Software Engineering Means to Us:
+
+Crafting, testing, documenting, and evolving code and software systems to deliver value to NTS and our customers.
+
+Developing and maintaining architecture to facilitate seamless product integrations.
+
+Responsively addressing user feedback and continuously deploying features and improvements.
+
+Communicating effectively with various stakeholders about architecture, requirements, progress, and release timing.
+
+Building professional and maintainable user interfaces."
+
+
+"Full Stack Engineer:
+
+Job description
+Position Overview
+
+We are seeking a talented and experienced Full Stack Engineer to join our dynamic team. As a member of our engineering team, you will be responsible for both front-end and back-end development, contributing to the design and implementation of our web applications, services, databases, & general infrastructure. This role offers an exciting opportunity to work on a variety of challenging projects in a collaborative and fast-paced environment.
+
+
+
+Responsibilities
+
+Develop and maintain scalable web applications & services using modern technologies and principled software development
+Collaborate with cross-functional teams to define, design, and ship new features and services
+Write clean, efficient, and well-documented code while adhering to best practices
+Troubleshoot and debug issues traversing a full web stack
+Participate in code reviews, providing and receiving constructive feedback from team members to improve code quality
+Optimize applications for speed, scalability, and cost efficiency
+Stay updated on emerging technologies, tools, and best practices in the industry
+
+
+Requirements
+
+Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent work experience
+4-6 years of experience as a Full Stack Engineer or similar role
+Proficiency in front-end technologies such as HTML5, CSS3, JavaScript (ES6+, React)
+Strong knowledge of back-end technologies such as Node.js, Python, Ruby, Java, etc.
+Experience with databases (SQL and NoSQL), related ORM libraries, and data pipelines
+Familiarity with RESTful APIs and microservices architecture
+Solid understanding of version control systems (e.g., Git, SVN)
+Excellent communication and collaboration skills
+Ability to work effectively in a fast-paced environment, communicate effectively, and manage multiple tasks concurrently
+
+
+Preferred Qualifications
+
+Master’s degree in Computer Science or related field
+Experience with cloud platforms (AWS, Azure, GCP) and containerization (Docker, Kubernetes)
+Knowledge of DevOps practices, CI/CD pipelines, and other development tooling
+Experience with Agile/Scrum methodologies
+Contributions to open-source projects or a strong GitHub profile"
+
+
+"Web Developer:
+
+Job description
+Description
+
+We are looking for an experienced Web Developer specializing in Shopify and Klaviyo integration to elevate our e-commerce site's functionality and maximize customer engagement. The ideal candidate has a proven track record in building high-performance Shopify sites and crafting impactful, Klaviyo-powered email campaigns, with a keen eye for design, user experience, and code efficiency.
+
+At STIIIZY, we value the versatility and adaptability of our employees. While this role has a primary focus, the successful candidate may have the opportunity to cross-train in other positions within the department based on organizational needs.
+
+KEY RESPONSIBILITIES
+Develop, maintain, and enhance our Shopify website to ensure optimal performance, user experience, and SEO compatibility.
+Customize Shopify themes, templates, and apps to align with brand aesthetics and functional needs.
+Collaborate with the marketing team to integrate Klaviyo and set up email workflows, automation, and segmentation.
+Analyze, troubleshoot, and resolve website and integration issues promptly.
+Implement A/B testing and personalization strategies for site and email performance optimization.
+Monitor and maintain the site's performance metrics and troubleshoot issues to maintain a seamless user experience.
+Performs work under direct supervision.
+Handles basic issues and problems and refers more complex issues to higher-level staff.
+Diligent, Punctual and Ready to work!
+Perform other duties as needed in support of business objectives assigned by supervisor.?
+At STIIIZY, we believe in fostering a collaborative and dynamic work environment. Our employees are encouraged to develop a broad skill set to enhance their contributions to the team. Cross-training opportunities may be provided to align with the organization's evolving needs.
+
+
+Note: This job description in no way states or implies that these are the only duties to be performed by the employee(s) incumbent in this position. Employees will be required to follow any other job-related instructions and to perform any other job-related duties requested by any person authorized to give instructions or assignments. All duties and responsibilities are essential functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities. Duties, responsibilities, and activities may change at any time with or without notice.
+
+TECHNICAL SKILLS & ABILITIES
+Excellent time management skills
+Ability to multi-task
+Coachable, highly motivated, and driven to succeed.
+Possesses beginning to working knowledge of subject matter.
+Ability to work both independently and collaboratively in a fast-paced environment.
+
+
+EDUCATION & EXPERIENCE
+High school diploma, GED, or equivalent.
+Bachelor's degree preferred
+Previous experience working within the [cannabis/e-commerce] industry
+Proven experience with Shopify development, including Liquid templating, custom theme development, and app integration.
+Hands-on experience with Klaviyo, including creating flows, segmentation, and performance analysis.
+
+
+REQUIREMENTS
+Must be over 21 years of age.
+Proficient in HTML, CSS, JavaScript, and responsive design.
+Strong understanding of e-commerce best practices, SEO, and conversion optimization.
+Available for on-site operations work Monday-Friday.
+Work revolves around objectives, projects, and priorities- not hours; must be able to work weekends and holidays as needed.
+Willingness and ability to undergo cross-training in various roles within the department as required."
+
+
+"Web Developer: 
+
+
+Job description
+Yamaha Guitar Group is a leading manufacturer of electric guitar and bass products, consisting of the 'Line 6', 'Ampeg', 'Cordoba' & 'Guild' brands. We are looking for a Web Developer to join the team!The Web Developer will be responsible will be responsible for development of customer facing web properties.This is a critical position in a creative, fun, and driven work environment. Yamaha Guitar Group is a small company, so our ideal candidate can work cross-functionally and collaborate to find the best solutions to complex problems.
+
+Our company has a unique culture, including game nights, company 'jams', and corporate sustainability and responsibility efforts to constantly improve our impact globally. Essential Job Description Collaborate with Sales, Marketing, Customer Service, and Engineering teams to refine technical requirements. Develop functionality for customer-facing websites (e.g., line6.com, ampeg.com, ecommerce shops).
+
+Ensure code and database structure conform to company standards in coordination with the Sr. Director, IT. Troubleshoot and independently resolve reported issues.
+
+Oversee and implement project requests from other departments from conception to release. Perform administrative tasks such as posting news articles, tones, tracks, or other similar items. Experience/Qualifications What you Bring to the table Required Qualifications Proficiency in JavaScript, HTML, CSS, Python, Ruby, and Perl.
+
+Strong SQL skills with experience in MySQL and PostgreSQL. Comfortable with Docker for development. Experience with modern client frameworks like Bootstrap and React is helpful.
+
+Familiarity with Unix-based operating systems like FreeBSD and Linux. Excellent interpersonal skills. Ability to work extended hours, multitask, and prioritize effectively.
+
+Strong communication skills to interact with a diverse range of individuals and evaluate situations quickly. Bachelor's degree or equivalent experience. 4-5 years of work experience in a directly related field."
+
+
+"Senior Backend Engineer:
+
+What You'll Do
+
+The Senior Backend Software Engineer is a critical member of the Calm Engineering Team. In this role, you will be responsible for designing, developing, and maintaining the backend systems that power our mobile and web applications. You will work closely with a team of engineers, designers, product managers, and customers to ensure that our products are reliable, performant, and secure. Specifically, you will:
+Collaborate with stakeholders to gather requirements, define project scope, and develop technical specifications
+Design, develop, and maintain backend systems that are reliable, scalable, and secure
+Lead development and implementation of complex backend features and services, collaborating cross-functionally with QA, DevOps, PMs, and client engineers to ensure smooth development and deployment process
+Write high-quality, well-documented, and easily maintainable code that adheres to industry standard best-practices
+Ensure high test coverage for all code, including unit and integration tests
+Implement backend features with instrumentation and monitoring to detect system errors and performance issues
+Stay up-to-date on the latest backend technologies and trends
+Develop, mentor and train software engineers
+
+Who You Are
+Experience with the following languages/technologies/frameworks (or equivalents):
+Javascript/Typescript
+GoLang
+Docker
+Kubernetes
+Terraform
+AWS / GCP / GKE
+Relational DBs / SQL
+Experience with REST API-based microservices design
+Proven experience working effectively in a fast-paced, agile environment as part of a collaborative team
+Willingness and enthusiasm to learn new technologies and tackle challenging problems
+Experience providing accurate high-level estimates based on complexity and consistently delivering on time and with quality
+Consistently deliver on commitments through disciplined estimates and task breakdowns
+Proficiency in writing unit and integration tests in a CI/CD environment
+Excellent communication skills, with the ability to convey technical solutions to both technical and non-technical stakeholders
+Provide high-quality code reviews centered on code quality and mentoring
+Ability to partner with leads across products to leverage institutional knowledge to solve complex problems
+Ability to work independently and as part of a team
+Ability to meet deadlines and work under pressure"
+
+
+"Full Stack Engineer:
+
+About this role
+
+As a senior full-stack engineer you will be one of the most senior technical contributors on our teams. You will tackle the most difficult technical challenges the team faces spanning both frontend and backend web development work. This will include building features for our fintech, travel, and/or superapp products along with the engines and frameworks that power them. You will predominantly work with React on the frontend, and a combination of Python and Node microservices on the backend. Other technologies you'll work with include Gitlab, AWS, Postgres, Redis, Datadog, Amplitude, and Snowflake. You will report to an Engineering Manager. From a Senior Engineer you may grow on the IC track into a Staff Software Engineer or on the people track into an Engineering Manager.
+Challenges you'll solve
+Ship projects end-to-end in a fast-paced, iterative environment
+Have the opportunity to very meaningfully propel the business forward, and experience the impact of your work on the company's business metrics and user experience
+Own features, services, caches, and databases, including deployment, monitoring, debugging, and testing
+Uphold standards for quality by performing code reviews
+Mentor junior developers
+Participate in cross-functional team projects, work with external stakeholders, and help shape the roadmap for future team projects
+Be data-driven and close to the customer, conducting experiments for nearly everything you launch
+About you
+We're looking for highly-motivated self-starters who share our excitement for growth and impact
+Willing and able to work with both backend and frontend parts of the stack, though the proportion of time spent doing each will be influenced by the candidate's interests
+Interested in building products in a startup environment: moving quickly, being data-driven, wearing multiple hats, continuously learning
+Strong communicator, and able to thrive on an agile team, contributing to: standups, sprint ceremonies, and quarterly project planning, and working with various internal and external stakeholders
+Highly motivated, have a strong sense of ownership, and are able to drive complex projects end-to-end
+
+4+ years of professional working experience in software development, including 2+ years of Python or Node on the backend, and 2+ years working with a modern frontend JS framework (ex. React, Vue, Angular)
+Experience working with web services / modern web technologies and comfortable tackling system design challenges
+Have mentored more junior developers
+Bonus points!
+Working experience across a breadth of our infrastructure, languages and stacks (React, Python, Node, Gitlab, AWS, Docker, Postgres, Redis, Datadog, Amplitude, and Snowflake)
+SQL / analytics know-how, and experience with devops concepts
+Experience in a startup environment
+Worked closely with business stakeholders
+Experience writing end-to-end/browser-based tests"
+
+
+"Senior Fullstack Engineer: 
+
+Core Skills (Must Haves)
+5+ years of professional experience with JavaScript, React, and TypeScript
+Deep expertise in modern web standards, tools, and best practices
+Proven experience with microservices design patterns (Saga, Sidecar, Circuit Breaker)
+Strong background in REST API design and implementation for distributed systems
+Proven ability to develop beautiful, functional experiences that delight users
+Proficiency with both SQL and NoSQL databases, including architecture and optimization
+Experience with cloud platforms (AWS/GCP/Azure) and containerization (Docker, Kubernetes)
+Startup experience demonstrating ability to thrive in fast-paced environments
+Bonus Skills (Nice to Have)
+Experience with Python or Golang for scalable service development
+Expertise in Next.js and Vite frameworks
+Knowledge of Dapr for microservices and event-driven applications
+Experience with Yjs and CRDT for real-time collaborative features
+Background in OAuth2/OIDC implementation
+Experience with ML/LLM projects, particularly RAG systems
+Familiarity with ML infrastructure on NVIDIA hardware
+What Makes You a Great Fit
+You're a product-minded engineer who cares deeply about developer experience
+You're self-driven and comfortable setting and meeting ambitious timelines
+You communicate effectively and collaborate well with cross-functional teams
+You bring a low-ego approach and high degree of patience to your work
+You're passionate about building tools that revolutionize how teams work with AI
+You thrive in dynamic, fast-paced environments where you can make significant impact
+What you'll do
+Design and implement robust, scalable frontend interfaces using NextJS, React, Redux, and TypeScript
+Architect and deploy backend services and APIs using TypeScript and Python
+Collaborate with product, design, and research teams to push the boundaries of AI-powered development
+Build and optimize distributed systems that power our AI workflow orchestration
+Shape the technical direction of a rapidly growing platform"
+
+
+"Full-Stack Engineer: 
+
+Job description
+About the job (Hybrid/Santa Monica)
+
+You will be joining our US & Canadian based software engineering team. As a member of the team, your primary focus will be to help continue to build and enhance our industry-leading platform. We are looking for a motivated, self-starter who can work in a distributed team environment. The day-to-day responsibilities are broad, and you will ultimately be responsible for shipping high-quality software that powers many businesses and shapes the maintenance industry. This candidate would work a Hybrid work schedule out of our Santa Monica based headquarters.
+
+As a Full-Stack Software Engineer, you will:
+Build and maintain our backend platform with real-time, event-driven systems, services, and features.
+Build and maintain our frontend platform using React framework.
+Write quality code with high test coverage and documentation.
+Develop, support, and improve our GraphQL and REST APIs.
+Promote, teach, and enforce our documentation standards.
+Propose recommendations, build prototypes, and provide feedback.
+Work in tandem with the QA engineering team to ship quality and high-precision software.
+Co-own the short and long-term technical vision of your squad with your teammates.
+Provide technical mentorship and guidance to engineers within your team and others.
+Help improve the technical quality of our work through regular technical design, code reviews and automated testing.
+Share your technical knowledge and expertise,.
+Communicate effectively with engineers, product managers, customers, partners, and other leaders.
+
+Requirements to be successful in this role:
+3+ years of experience in engineering roles, ideally in fast-paced SaaS environments (designing APIs, integrations, platforms, and tools used by other engineers).
+We expect that as an individual contributor, you are a role model to more junior engineers.
+You will be expected to help shape and guide the technology decisions of your squad, while contributing alongside them.
+Write modern JavaScript/ECMAScript code that is clean, well-tested, and reusable.
+Strong communication and technical writing skills.
+Strong experience with React.js to develop and test applications/components that work optimistically in a production environment.
+Strong experience with Node.js using GraphQL API using Apollo.
+Prior knowledge or ability to quickly learn React Native for mobile development preferred.
+Prior knowledge or ability to quickly learn Material-UI component library preferred.
+Prior knowledge or ability to quickly learn developing in a CI/CD environment preferred.
+Prior knowledge or familiarity with Python for back-end development a plus.
+Familiarity with Jest, unit testing, debugging, profiling, performance monitoring."
+
+
+"Senior Software Engineer: 
+
+Responsibilities
+You play a leading role in designing, developing and maintaining both front-end and back-end components of the existing/new software systems ensuring scalable, modular architecture that supports global deployment.
+Build event-driven architectures and microservices, ensuring seamless integration with other components.
+Collaborate with distributed teams and stakeholders to deliver a reliable and user-centric experience, including integration of APIs, alerting, and monitoring mechanisms.
+Build software using industry-standard development tools, maintaining high code quality, operational excellence, and readiness for deployment.
+You understand a broad range of data structures, algorithms design, and know how, when and when not to use them. You can evaluate run-time performance and understand how to trade off performance using a variety of algorithm and data structure approaches.
+You are comfortable advising others through code reviews, design reviews, and feedback on operational excellence. You are also comfortable receiving feedback and using it to grow as an engineer. You recognize that good ideas can come from anywhere, and work to make all your peers feel included and heard. You deliver facts and decisions with empathy and transparency to bring others along with you.
+You are a key influencer in your team's strategy and contribute significantly to team planning. You show good judgment in making trade-offs between immediate and long-term business needs. You are a collaborative leader that makes other engineers and team members around you more productive, by sharing your knowledge, and helping to tie-break key technical decisions. You provide mentoring to other engineers and your success is judged as much on your own productivity as on the positive impact you have on engineers around you.
+You can troubleshoot a production issue by reviewing source code, logs, operational metrics, stack trace, etc. to pinpoint a specific problem and then resolve it. You can identify root causes and identify learnings to improve both development processes and system design.
+
+
+Requirements
+5+ years in backend and full-stack engineering, with proficiency in Java development (Vert.x framework is a plus). Experience in NodeJS, Golang, gRPC is a plus.
+Strong expertise in microservices, event-driven solutions, and API development (GraphQL and REST).
+Proficiency in JavaScript frameworks like React or Angular, HTML/CSS, and UI/UX design principles.
+Experience with SQL and NoSQL databases (e.g., DynamoDB, Elasticsearch, Postgres Aurora).
+Proficiency with AWS (Compute, Network Security, API Gateways, VPCs, Kubernetes, Fargate/EKS) and containerization (Docker, Kubernetes). Experience with CI/CD tools, Jenkins configuration, and Kafka/MKS is a plus.
+Experience building, operating, and owning services. Implementing operational excellence mechanisms including alerting, metrics, and logging using Prometheus, CloudWatch, Kibana, PagerDuty.
+Strong understanding of testing frameworks and methodologies for both front-end and back-end.
+Experience with software engineering best practices (e.g., unit testing, design patterns, building maintainable code, performance)
+Excellent communication and collaboration skills, fostering an inclusive and supportive team environment.
+Proven ability to work with minimal direction on day-to-day tasks and to self-start with general guidance on new assignments."
+
+
+"Frontend Developer:
+
+Job description
+Job Description:
+
+JohnHart is seeking a talented and motivated Front-End Developer to join our team. The ideal candidate will have a solid foundation in front-end technologies such as HTML, CSS, JavaScript and jQuery, along with experience in working with Twig templating and minor exposure to PHP. You will collaborate closely with our back-end developers and UI/UX designers to create seamless, user-friendly web applications that provide exceptional user experiences.
+
+Key Responsibilities:
+
+Develop responsive and visually appealing web pages using HTML, CSS, JS and jQuery.
+Implement dynamic components and interactive features that enhance user experience.
+Utilize Twig to create reusable and efficient front-end templates.
+Collaborate with designers to ensure technical feasibility of UI/UX designs.
+Integrate front-end code with back-end logic, including basic PHP integration where necessary.
+Optimize web applications for performance and scalability.
+Ensure cross-browser compatibility and responsiveness of web applications.
+Participate in code reviews to maintain high-quality standards and share knowledge with the team.
+Collaborate with back-end developers to integrate front-end templates with server-side code.
+Requirements:
+
+Proficiency in front-end languages: HTML5, CSS3, and JavaScript (including jQuery).
+Experience with Twig templating: Ability to create reusable and dynamic templates in Twig.
+Solid understanding of responsive design and best practices for web development.
+Basic experience with PHP: Ability to integrate front-end code with back-end logic and troubleshoot minor PHP-related issues.
+Experience with version control systems like Git.
+Understanding of cross-browser compatibility issues and ways to work around them.
+Strong knowledge of browser developer tools for testing and debugging.
+Nice-to-Have:
+
+Familiarity with front-end frameworks/libraries like Vue.js, React, or Angular.
+Experience with UI/UX principles and collaboration with design teams.
+Experience working with projects created in Figma.
+Soft Skills:
+
+Strong communication and teamwork skills.
+Ability to solve problems efficiently and think creatively.
+Attention to detail and a passion for delivering high-quality work.
+Willingness to learn and adapt to new technologies and frameworks."
+
+
+
+
+
+
+
+
+
